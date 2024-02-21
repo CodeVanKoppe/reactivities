@@ -1,0 +1,11 @@
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\bin\Debug\net8.0\Domain.dll
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\bin\Debug\net8.0\Domain.pdb
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll

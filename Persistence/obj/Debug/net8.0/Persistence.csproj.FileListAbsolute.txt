@@ -1,0 +1,15 @@
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\bin\Debug\net8.0\Domain.dll
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
