@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VsCode Projects\\Reactivities-new\\Reactivities\\API\\API.csproj": {}
+    "D:\\VsCode Projects\\Reactivities-new\\Reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\VsCode Projects\\Reactivities-new\\Reactivities\\API\\API.csproj": {
+    "D:\\VsCode Projects\\Reactivities-new\\Reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VsCode Projects\\Reactivities-new\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "D:\\VsCode Projects\\Reactivities-new\\Reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\VsCode Projects\\Reactivities-new\\Reactivities\\API\\API.csproj",
+        "projectPath": "D:\\VsCode Projects\\Reactivities-new\\Reactivities\\api\\API.csproj",
         "packagesPath": "C:\\Users\\melvi\\.nuget\\packages\\",
-        "outputPath": "D:\\VsCode Projects\\Reactivities-new\\Reactivities\\API\\obj\\",
+        "outputPath": "D:\\VsCode Projects\\Reactivities-new\\Reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\melvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -248,6 +254,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -13,3 +13,4 @@ D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Pe
 D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
 D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\VsCode Projects\Reactivities-new\Reactivities\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

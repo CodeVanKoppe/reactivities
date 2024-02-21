@@ -15,3 +15,4 @@ D:\VsCode Projects\Reactivities-new\Reactivities\Application\obj\Debug\net8.0\Ap
 D:\VsCode Projects\Reactivities-new\Reactivities\Application\obj\Debug\net8.0\refint\Application.dll
 D:\VsCode Projects\Reactivities-new\Reactivities\Application\obj\Debug\net8.0\Application.pdb
 D:\VsCode Projects\Reactivities-new\Reactivities\Application\obj\Debug\net8.0\ref\Application.dll
+D:\VsCode Projects\Reactivities-new\Reactivities\Application\obj\Debug\net8.0\Application.sourcelink.json

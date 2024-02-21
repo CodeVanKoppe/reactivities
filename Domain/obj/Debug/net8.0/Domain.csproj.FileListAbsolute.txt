@@ -9,3 +9,4 @@ D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\Domain.
 D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
 D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\VsCode Projects\Reactivities-new\Reactivities\Domain\obj\Debug\net8.0\Domain.sourcelink.json
